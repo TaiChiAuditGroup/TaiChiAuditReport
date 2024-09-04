@@ -32,7 +32,7 @@ Disclaimer: This review does not guarantee against a hack. It is a snapshot in a
 
 # Security Assessment Summary
 The audit work was conducted in the time frame August 28th, 2024 to September 1st, 2024.
-One security engineer from [Cymetrics](https://x.com/cymetrics) and two white hats from [DeFiHackLabs](https://x.com/DeFiHackLabs)([TaiChi](https://x.com/TaiChiWeb3Sec)) participated in this audit.
+One security engineer from [Cymetrics](https://x.com/cymetrics) and three white hats from [DeFiHackLabs](https://x.com/DeFiHackLabs)([TaiChi](https://x.com/TaiChiWeb3Sec)) participated in this audit.
 
 The white hats are:
 
